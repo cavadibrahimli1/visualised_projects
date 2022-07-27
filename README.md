@@ -13,7 +13,7 @@ Main libraries I will use for Visualization are :
  - pygal
  - Plotly
  - geoplotlib
-
+and others....
 
  
 
