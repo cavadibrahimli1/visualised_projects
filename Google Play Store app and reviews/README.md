@@ -1,4 +1,4 @@
-# Day 75 - Beautiful Plotly Charts & Analysing the Android App Store
+#  Beautiful Plotly Charts & Analysing the Android App Store
 ## Concepts Practised
 - Removing NaN Values and Duplicates
 - Create Pie and Donut Charts
